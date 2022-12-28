@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Pas61QId/zTX0FTifz0A7Bo3WN2xH4LwZksEeInLujE=",
+  "Source": "Api_mssql",
+  "BasePath": "_content/Api_mssql",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
